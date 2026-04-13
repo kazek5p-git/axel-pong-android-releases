@@ -4,8 +4,8 @@ Public download repository for tested Android APK releases of Axel Pong.
 
 ## Current release
 
-- Version: `0.1.1`
-- Build: `2`
+- Version: `0.1.8`
+- Build: `9`
 - Package: `com.axel.axelpong.android`
 - Minimum Android version: `7.0` (API 24)
 
@@ -13,13 +13,13 @@ Public download repository for tested Android APK releases of Axel Pong.
 
 - Release signing: production/local keystore
 - Device smoke: passed
-- Verified on real Pixel device and Android emulator
+- Verified on Android emulator for this release build
 
 ## Download
 
 - Use the assets attached to the latest GitHub release on the Releases page.
-- APK filename for version `0.1.1`: `axel-pong-android-v0.1.1.apk`
+- APK filename for version `0.1.8`: `app-release.apk`
 
 ## SHA-256
 
-- `326ff8857e81c7f7d878c134a470324d6151cb0d73cd2b476f634c876c865c78`
+- `2cc620b73a61dc078fc4bb9bf07dcbb3045501f3f60345a94d307d7372ce2d6f`
